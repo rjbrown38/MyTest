@@ -2,3 +2,4 @@ Just a rather simple test
 
 So this really does work
 Adding on a statement with >>
+I am adding this now
